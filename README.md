@@ -52,3 +52,6 @@ https://drive.google.com/file/d/1bIwhoUu0MRliR523ehwkiaP0ISWTPo3F/view?usp=shari
 ## Results
 
 my model achieves the following performance : mAP = 0.23084
+
+## References
+[Detectron2](https://github.com/facebookresearch/detectron2)
