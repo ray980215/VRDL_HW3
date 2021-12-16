@@ -46,7 +46,7 @@ https://github.com/ray980215/VRDL_HW3/blob/main/inference.ipynb
 ## Pre-trained Models
 
 You can download my model weights here:
-https://drive.google.com/file/d/1bIwhoUu0MRliR523ehwkiaP0ISWTPo3F/view?usp=sharing
+https://drive.google.com/file/d/1I4QioghvOK9ZbL5xtm7Gc4Me4A1v5Hfg/view?usp=sharing
 
 
 ## Results
